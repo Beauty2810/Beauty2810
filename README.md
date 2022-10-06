@@ -1,6 +1,6 @@
 <h1 align="center">Hello World!! I'm Beauty</h1>
 
-* 🔭 I’m currently working on **Gold Price Prediction**
+* 🔭 I’m currently working on **Resume Classification**
 
 * 🌱 I’m currently developing skills in **Data Science, Machine Learning and AI**
 

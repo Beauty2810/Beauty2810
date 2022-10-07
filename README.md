@@ -2,7 +2,7 @@
 
 * 🔭 I’m currently working on **Resume Classification**
 
-* 🌱 I’m currently developing skills in **Data Science, Machine Learning and AI**
+* 🌱 Developing skills in **Data Science, Machine Learning and AI**
 
 * 📫 How to reach me **beautyatara28@gmail.com**
 

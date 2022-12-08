@@ -1,6 +1,6 @@
 <h1 align="center">Hello World!! I'm Beauty</h1>
 
-* 🔭 I’m currently working on **Resume Classification**
+* 🔭 I’m currently learning about **Big Data**
 
 * 🌱 Developing skills in **Data Science, Machine Learning and AI**
 

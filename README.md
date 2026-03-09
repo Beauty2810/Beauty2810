@@ -1,5 +1,13 @@
 ## 💫 About Me:
-Currently pursuing **Master's in Artificial Intelligence and Machine Learning** at **University of Birmingham**. I have worked as an AI/ML Developer for 2.5 years, where my work revolved around building end-to-end machine learning systems, fine-tuning multimodal LLMs, and working extensively with computer vision, OCR, and document intelligence pipelines. My work often involved transforming unstructured data into structured insights, optimising ML workflows, and integrating intelligent automation into real-world applications.
+I'm currently pursuing my Master's in AI and Machine Learning at the University of Birmingham, building on two years of professional experience as an AI/ML Engineer.
+
+I've worked on document intelligence systems, predictive models, and conversational AI, combining Computer Vision, NLP, and LLMs to solve complex problems. My experience includes building multimodal pipelines that bring vision and language models together, working with RAG architectures and vector databases, and handling the challenging but rewarding work of deploying ML systems at scale.
+
+Honestly, I'm less interested in any specific domain and more excited about the approach: understanding what the problem actually needs, choosing the right combination of techniques, and shipping something that works reliably in production.
+
+Made an unconventional pivot from Chemical Engineering to AI, because it felt right, and discovered along the way that AI is more my thing and never looked back.
+
+Open to AI/ML opportunities across industries. What matters most to me is working on interesting technical challenges with real-world impact, whether that's generative AI, automation, or anything that needs thoughtful application of ML.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/beautyatara2810) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:atarabeauty99@gmail.com) 

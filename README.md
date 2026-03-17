@@ -1,4 +1,13 @@
-## 💫 About Me:
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFB3C6&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BD+I'm+Beauty+Atara" alt="Typing SVG" />
+
+</div>
+
+---
+
+## 💫 About Me
+
 I'm currently pursuing my Master's in AI and Machine Learning at the University of Birmingham, building on two years of professional experience as an AI/ML Engineer.
 
 I've worked on document intelligence systems, predictive models, and conversational AI, combining Computer Vision, NLP, and LLMs to solve complex problems. My experience includes building multimodal pipelines that bring vision and language models together, working with RAG architectures and vector databases, and handling the challenging but rewarding work of deploying ML systems at scale.
@@ -9,14 +18,64 @@ Made an unconventional pivot from Chemical Engineering to AI, because it felt ri
 
 Open to AI/ML opportunities across industries. What matters most to me is working on interesting technical challenges with real-world impact, whether that's generative AI, automation, or anything that needs thoughtful application of ML.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/beautyatara2810) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:atarabeauty99@gmail.com) 
+---
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Beauty2810&theme=aura&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Beauty2810&theme=aura&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Beauty2810&theme=aura&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+## 🌐 Socials
 
-[![](https://visitcount.itsvg.in/api?id=Beauty2810&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ffb3c6?style=for-the-badge&logo=linkedin&logoColor=0d0d0d)](https://linkedin.com/in/beautyatara2810)
+[![Email](https://img.shields.io/badge/Email-ffb3c6?style=for-the-badge&logo=gmail&logoColor=0d0d0d)](mailto:atarabeauty99@gmail.com)
+
+</div>
+
+---
+
+## 💻 Tech Stack
+
+![Python](https://img.shields.io/badge/python-0d0d0d?style=for-the-badge&logo=python&logoColor=ffb3c6)
+![AWS](https://img.shields.io/badge/AWS-0d0d0d?style=for-the-badge&logo=amazon-aws&logoColor=ffb3c6)
+![Anaconda](https://img.shields.io/badge/Anaconda-0d0d0d?style=for-the-badge&logo=anaconda&logoColor=ffb3c6)
+![CUDA](https://img.shields.io/badge/CUDA-0d0d0d?style=for-the-badge&logo=nvidia&logoColor=ffb3c6)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d0d0d?style=for-the-badge&logo=fastapi&logoColor=ffb3c6)
+![Flask](https://img.shields.io/badge/Flask-0d0d0d?style=for-the-badge&logo=flask&logoColor=ffb3c6)
+![OpenCV](https://img.shields.io/badge/OpenCV-0d0d0d?style=for-the-badge&logo=opencv&logoColor=ffb3c6)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-0d0d0d?style=for-the-badge&logo=rabbitmq&logoColor=ffb3c6)
+![Streamlit](https://img.shields.io/badge/Streamlit-0d0d0d?style=for-the-badge&logo=streamlit&logoColor=ffb3c6)
+![MySQL](https://img.shields.io/badge/MySQL-0d0d0d?style=for-the-badge&logo=mysql&logoColor=ffb3c6)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d0d0d?style=for-the-badge&logo=mongodb&logoColor=ffb3c6)
+![Keras](https://img.shields.io/badge/Keras-0d0d0d?style=for-the-badge&logo=keras&logoColor=ffb3c6)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0d0d0d?style=for-the-badge&logo=matplotlib&logoColor=ffb3c6)
+![NumPy](https://img.shields.io/badge/NumPy-0d0d0d?style=for-the-badge&logo=numpy&logoColor=ffb3c6)
+![Pandas](https://img.shields.io/badge/Pandas-0d0d0d?style=for-the-badge&logo=pandas&logoColor=ffb3c6)
+![Plotly](https://img.shields.io/badge/Plotly-0d0d0d?style=for-the-badge&logo=plotly&logoColor=ffb3c6)
+![PyTorch](https://img.shields.io/badge/PyTorch-0d0d0d?style=for-the-badge&logo=pytorch&logoColor=ffb3c6)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0d0d0d?style=for-the-badge&logo=scikit-learn&logoColor=ffb3c6)
+![SciPy](https://img.shields.io/badge/SciPy-0d0d0d?style=for-the-badge&logo=scipy&logoColor=ffb3c6)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0d0d0d?style=for-the-badge&logo=tensorflow&logoColor=ffb3c6)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0d0d0d?style=for-the-badge&logo=bitbucket&logoColor=ffb3c6)
+![Git](https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=ffb3c6)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Beauty2810&show_icons=true&theme=transparent&hide_border=true&title_color=ffb3c6&icon_color=ff6b9d&text_color=ffffff&ring_color=ffb3c6" height="160"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beauty2810&layout=compact&theme=transparent&hide_border=true&title_color=ffb3c6&text_color=ffffff" height="160"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=Beauty2810&theme=transparent&hide_border=true&stroke=ffb3c6&ring=ff6b9d&fire=ff6b9d&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffb3c6&sideLabels=ffb3c6&dates=aaaaaa" height="150"/>
+
+</div>
+
+---
+
+<div align="center">
+
+[![](https://visitcount.itsvg.in/api?id=Beauty2810&icon=0&color=11)](https://visitcount.itsvg.in)
+
+</div>

@@ -59,25 +59,3 @@ Open to AI/ML opportunities across industries. What matters most to me is workin
 ![Git](https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=ffb3c6)
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Beauty2810&show_icons=true&theme=transparent&hide_border=true&title_color=ffb3c6&icon_color=ff6b9d&text_color=ffffff&ring_color=ffb3c6" height="160"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beauty2810&layout=compact&theme=transparent&hide_border=true&title_color=ffb3c6&text_color=ffffff" height="160"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=Beauty2810&theme=transparent&hide_border=true&stroke=ffb3c6&ring=ff6b9d&fire=ff6b9d&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffb3c6&sideLabels=ffb3c6&dates=aaaaaa" height="150"/>
-
-</div>
-
----
-
-<div align="center">
-
-[![](https://visitcount.itsvg.in/api?id=Beauty2810&icon=0&color=11)](https://visitcount.itsvg.in)
-
-</div>
